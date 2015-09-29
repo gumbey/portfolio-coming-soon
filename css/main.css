@@ -79,6 +79,8 @@ p {
   border-width: 0.05em;
   border-color: #CC9E61;
   color: #CC9E61;
+  max-width: 350px;
+  margin: auto;
 }
 
 .media{
@@ -88,4 +90,9 @@ p {
 .img {
   width: 3.2em;
   margin: auto;
+}
+
+.largescreen{
+  margin: auto;
+  max-width: 600px;
 }
